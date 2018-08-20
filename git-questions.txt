@@ -1,0 +1,5 @@
+Video 1:
+1.What is git?
+git is an open source distibuted version control system which is used to handle anything from small to big and big project.
+2.Why we use git?
+2.What is Distributed version control system?
